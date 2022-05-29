@@ -1,0 +1,207 @@
+body {
+background: #A67676;
+}
+.mini-logo {
+margin-top: 60px;
+margin-left: 35px;
+margin-bottom: 0px;
+color: #FFFFFF;
+}
+
+.Rectangle3 { 
+background: #f4f4f4;
+margin-top: 0px;
+margin-left: 35px;
+margin-right: 50px;
+height: 928px;
+width: 1585px;
+}
+
+.menu {
+margin-top: 0px;
+position: center;
+width: 1340px;
+height: 50px;
+margin-left: 150px;
+padding: 10px;
+}
+
+.HomeIcon {
+float: right;
+margin-top: -30px;
+margin-right: 100px;
+}
+
+.banner {
+height: 827px;
+width: 1585px;
+border-radius: 0px;
+
+}
+
+.Rectangle2 {
+background: #4A4A4A;
+height: 800px;
+width: 1585px;
+margin-left: 35px;
+}
+
+.instagram {
+margin-top: 478.79px;
+margin-left: 45.79px;
+}
+
+.facebook {
+margin-top: 21.9px;
+margin-left: 48px;
+}
+
+.twitter {
+margin-top: 21px;
+margin-left: 41px;
+}
+
+.annie-spratt {
+Width: 640px;
+Height: 929px;
+margin-top: -400px;
+Left: 290px;
+position: absolute;
+}
+
+h1 {
+position: absolute;
+height: 178px;
+margin-left: 1000px;
+margin-top: -400px;
+font-family: Work Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 81px;
+line-height: 100px;
+color: rgba(255, 255, 255, 1);
+letter-spacing: 18px;
+line-height: normal;
+}
+
+.Loremipsumdolorsi {
+position: absolute;
+margin-left: 930px;
+margin-top: -150px;
+width: 433px;
+height: 210px;
+}
+
+.Path21 {
+position: absolute;
+margin-left: 1400px;
+margin-top: -190px;
+width: 32px;
+height: 66.19px;
+color: #FFFFFF;
+}
+
+.Line {
+position: absolute;
+margin-left: 930px;
+margin-top: 90px;
+color: 5px#FFFFFF;
+}
+
+.Line1 {
+position: absolute;
+margin-left: 1035px;
+margin-top: 91px;
+color:#FFFFFF;
+}
+
+.bg {
+background: #FFFFFF;;
+height: 1500px;
+width: 1585px;
+margin-left: 35px; 
+}
+
+.Rectangle {
+position: absolute;
+margin-left: 980px;
+margin-top: 110px;
+}
+
+.viewgallery {
+position: absolute;
+margin-left: 1025px;
+margin-top: 140px;
+}
+
+.Line2 {
+position: absolute;
+margin-left: 1438px;
+margin-top: 150px;  
+}
+
+.Path22 {
+position: absolute;
+margin-left: 1490px;
+margin-top: 133px;  
+}
+
+.vasespots {
+position: absolute;
+margin-top: 430px;
+margin-left: 290px;
+}
+
+.tanalee {
+position: absolute;
+margin-top: 380px;
+margin-left: 350px;
+}
+
+.claudia {
+position: absolute;
+margin-top: 380px;
+margin-left: 740px;
+}
+
+.Loremipsumdolorsi1 {
+position: absolute;
+margin-top: 820px;
+margin-left: 400px;
+}
+
+.venim {
+position: absolute;
+margin-top: 820px;
+margin-left: 820px;
+}
+
+.Rectangle1 {
+position: absolute;
+margin-top: 1060px;
+margin-left: 750px; 
+}
+
+.viewgallery1 {
+position: absolute;
+margin-left: 800px;
+margin-top: 1095px;
+}
+
+.Line21 {
+position: absolute;
+margin-left: 1230px;
+margin-top: 1105px;
+}
+
+.Path23 {
+position: absolute;
+margin-left: 1281px;
+margin-top: 1088px;  
+}
+
+.plant-2 {
+position: absolute;
+margin-left: 90px;
+margin-top: 1222px;  
+}
